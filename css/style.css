@@ -5,4 +5,5 @@ p {
   font-family: "Arial";
   font-style: italic;
   text-transform: uppercase;
-  margin-left: 15px; }
+  margin-left: 15px;
+  margin-right: 20px; }
